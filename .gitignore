@@ -1,0 +1,55 @@
+# Ignorar entornos virtuales
+.venv/
+venv/
+.env/
+env/
+*.egg-info/
+.Python/
+
+# Ignorar archivos de caché y compilados de Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+.ipynb_checkpoints/
+
+# Ignorar directorios de seguimiento de MLflow
+mlruns/
+mlartifacts/
+pryMLflow/mlruns/
+pryMLflow/mlartifacts/
+
+# Si usas un directorio específico para tus modelos, como "models/"
+# models/
+
+# Ignorar archivos de datos (si no usas DVC u otra herramienta para versionarlos)
+# data/
+# *.csv
+# *.json
+# *.parquet
+
+# Ignorar credenciales y configuraciones sensibles
+.env
+.flaskenv
+config.ini
+settings.pyc
+*.log
+*.sqlite3
+
+# Ignorar archivos específicos de IDEs (ej. VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Ignorar archivos de Jupyter Notebooks que no quieras versionar
+# .ipynb_checkpoints/ (ya incluido arriba)
+# Si generas archivos HTML o PDF a partir de notebooks
+# *.html
+# *.pdf
+
+# Ignorar archivos de pruebas y reportes
+# .pytest_cache/
+# htmlcov/
+# .coverage
+
+# Ignorar logs de depuración o de la aplicación
+# logs/
