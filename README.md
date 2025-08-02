@@ -325,7 +325,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 ## 📞 Soporte
 
 Para soporte técnico o preguntas sobre el proyecto:
-- Contactar al equipo de desarrollo sanCloud al telefono (sancloud@gmail.com)
+- Contactar al equipo de desarrollo sanCloud al correo (sancloud@gmail.com)
 
 ---
 
