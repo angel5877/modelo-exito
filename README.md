@@ -300,7 +300,6 @@ mlflow server --host 0.0.0.0 --port 5000 --backend-store-uri sqlite:///mlflow.db
 ## 📚 Documentación Adicional
 
 ### Archivos Importantes
-- `proyecto-modelo.docx`: Documentación completa del proyecto
 - `Artefactos/MySQL/2. Script/1. Tratamiento de datos.sql`: Scripts de procesamiento de datos
 - `Artefactos/Notebook/ML_G3.ipynb`: Notebook de análisis y modelado
 
